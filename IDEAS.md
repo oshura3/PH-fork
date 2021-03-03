@@ -2,6 +2,4 @@
 
 There be a "Reach Out" blurb/widget/portion/section/whatever at the bottom of every page in the handbook for the sake of consistency
 
-<!-- note to self: I already use 1Password! -->
-
 - The "Was this page helpful?" widget (?) that's located at the bottom of the [media](/media) page should probably be listed on all the other pages as well for consistency.
